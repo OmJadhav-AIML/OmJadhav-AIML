@@ -1,16 +1,25 @@
-## Hi there 👋
+# Om Jadhav - AIML Enthusiast 🤖
 
-<!--
-**OmJadhav-AIML/OmJadhav-AIML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋  
+I'm **Om Jadhav**, a passionate student of Artificial Intelligence and Machine Learning.  
+Currently pursuing a diploma in AIML and working on improving my skills in Python and Data Structures.
 
-Here are some ideas to get you started:
+### 🧠 What I'm learning:
+- Python 🐍
+- Data Structures
+- Git & GitHub
+- Basics of Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Goals:
+- Build exciting AI/ML projects
+- Become an AI Engineer in New Zealand 🇳🇿
+- Make my family proud through hard work and discipline
+
+### 📫 How to reach me:
+- 📧 [om.balwant.jadhav@gmail.com]
+
+---
+
+**Let’s connect and grow together in tech! 🚀**
+
+
